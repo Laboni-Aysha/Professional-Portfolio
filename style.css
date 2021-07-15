@@ -1,0 +1,89 @@
+body{
+    font-family: 'Merienda', cursive;
+}
+.name{
+    color: blue;
+}
+h1{
+    font-size: 60px;
+}
+.link-button{
+    text-decoration: none;
+    color: mediumorchid;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    background-image: linear-gradient(180deg,maroon,olive);
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.header{
+    background-image: url("images/header-bg.png");
+}
+.cool{
+    color: deeppink;
+    text-align: center;
+}
+.card img{
+width: 100%;
+}
+.card{
+    border: red;
+    margin: 10px;
+    width: 30%;
+    padding: 10px;
+    border-radius: 10px;
+    float: left;
+}
+section{
+    height: 600px;
+}
+.work{
+    text-align: center;
+}
+.project-area{
+    background-image: linear-gradient(rgb(54, 136, 72),rgb(65, 56, 55));
+    padding: 5px;
+}
+.contain{
+    color: hsl(182, 82%, 50%);
+    margin: 10% ;
+    width: 700px;
+}
+
+.chat{
+    float: right;
+    color: white;
+    
+}
+.inquiry{
+    background-image: url("shapes/Group_33094_1.png");
+    background-repeat: no-repeat;
+    height: 350px;
+    margin: 30px;
+    background-size: cover;
+}
+.work-inquiry{
+    font-size: 50px;
+    color: white;
+}
+.stay{
+    color: gray;
+}
+.hello{
+    font-size: 30px;
+}
+.connect{
+    text-align: center;
+}
+.connect img{
+    width:50px;
+    padding: 5px;
+}
